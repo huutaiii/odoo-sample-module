@@ -12,6 +12,7 @@
     'license': 'LGPL-3',
     'data': [
         'security/ir.model.access.csv',
+        'views/tag_views.xml',
         'views/sample_views.xml'
     ]
 }

@@ -13,6 +13,8 @@
                 <field name="name" />
                 <field name="date" />
                 <field name="i" />
+                <field name="random" />
+                <field name="tag_ids" />
             </tree>
         </field>
     </record>
